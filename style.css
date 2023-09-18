@@ -1,0 +1,21 @@
+
+/* AULA SOBRE CSS EXTERNO 16.09.2023*/
+body{
+    background-color: #7380bcff;
+}
+h1{
+    color: #edf7dfff;
+}
+p{
+    color: red;
+    background-color: yellow;
+}
+
+/*Aula sobre seletores Id e classes*/
+#primeiroUm{
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+}
+.fundoA{
+    background-color: green;
+}
